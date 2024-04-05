@@ -4,11 +4,11 @@ The project aims to create an interactive application in JavaFX that will allow 
 
 
 
-## 🚀 Feature
+## 🤔 What is an API?
+API is an Application Programming Interface.  It is used to transfer information between two systems.  Often the file is transferred in JSON format.  This time I used GSON (Google’s JSON utility) to convert JSON data into objects.
+
+## 🎪 Feature
 - Integrated external CSS to style scenes, including background images and text colors.
-
-## :thought_balloon: Process
-
 
 ## 📚 Learning & Improvement
 
