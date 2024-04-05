@@ -9,9 +9,9 @@ API is an Application Programming Interface.  It is used to transfer information
 
 ## 🎪 Feature
 - Allow users to search Disney movies by various settings such as title, released year, keywords
-- Displays the total number of movies related to the search word
+- Display the total number of movies related to the search word
 - If the URL of the poster image is invalid, the prepared default image is displayed
-- Integrated external CSS to style scenes, including background images and text colors.
+- Integrate external CSS to style scenes, including background images, search box, and each button effect.
 
 ## 🎥 Video
 
